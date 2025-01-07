@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DrillPredict.AI/static/css/main.1adef16c.css",
-    "main.js": "/DrillPredict.AI/static/js/main.6fa35653.js",
-    "static/media/office.jpg": "/DrillPredict.AI/static/media/office.5d233bb4eea23b5c21ca.jpg",
-    "static/media/neuro.jpg": "/DrillPredict.AI/static/media/neuro.15e5603b798641c50191.jpg",
-    "index.html": "/DrillPredict.AI/index.html",
-    "main.1adef16c.css.map": "/DrillPredict.AI/static/css/main.1adef16c.css.map",
-    "main.6fa35653.js.map": "/DrillPredict.AI/static/js/main.6fa35653.js.map"
+    "main.css": "/test/static/css/main.681ef740.css",
+    "main.js": "/test/static/js/main.3b71e352.js",
+    "static/media/office.jpg": "/test/static/media/office.5d233bb4eea23b5c21ca.jpg",
+    "static/media/neuro.jpg": "/test/static/media/neuro.15e5603b798641c50191.jpg",
+    "index.html": "/test/index.html",
+    "main.681ef740.css.map": "/test/static/css/main.681ef740.css.map",
+    "main.3b71e352.js.map": "/test/static/js/main.3b71e352.js.map"
   },
   "entrypoints": [
-    "static/css/main.1adef16c.css",
-    "static/js/main.6fa35653.js"
+    "static/css/main.681ef740.css",
+    "static/js/main.3b71e352.js"
   ]
 }
